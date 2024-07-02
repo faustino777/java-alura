@@ -4,26 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0260c0fe-a928-452e-ad49-db2ff5bc91c6" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/discord.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exercicios/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exercicios/src/DesafioTemperatura.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exercicios/src/HoraPratica01.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/fristproject/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/exercicios/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/fristproject/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/exercicios/.idea/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/fristproject/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/exercicios/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/fristproject/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/exercicios/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/fristproject/.idea/uiDesigner.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/fristproject/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/exercicios/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/fristproject/fristproject.iml" beforeDir="false" afterPath="$PROJECT_DIR$/exercicios/fristproject.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/fristproject/src/Perfil.java" beforeDir="false" afterPath="$PROJECT_DIR$/exercicios/src/Perfil.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/fristproject/src/PrimeiraClasse.java" beforeDir="false" afterPath="$PROJECT_DIR$/exercicios/src/PrimeiraClasse.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/fristproject/src/Soma.java" beforeDir="false" afterPath="$PROJECT_DIR$/exercicios/src/Soma.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/fristproject/src/Subtracao.java" beforeDir="false" afterPath="$PROJECT_DIR$/exercicios/src/Subtracao.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-alura.iml" beforeDir="false" afterPath="$PROJECT_DIR$/java-alura.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/screen-match/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/screen-match/src/Main.java" afterDir="false" />
-    </list>
+    <list default="true" id="0260c0fe-a928-452e-ad49-db2ff5bc91c6" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
