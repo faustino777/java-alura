@@ -4,7 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0260c0fe-a928-452e-ad49-db2ff5bc91c6" name="Changes" comment="" />
+    <list default="true" id="0260c0fe-a928-452e-ad49-db2ff5bc91c6" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/screen-match/src/Condicional.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screen-match/src/Leitura.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screen-match/src/LoopFor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screen-match/src/LoopWhile.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -35,12 +41,17 @@
   "keyToString": {
     "ASKED_ADD_EXTERNAL_FILES": "true",
     "Application.CelsiusToFahrenheit.executor": "Run",
+    "Application.Condicional.executor": "Run",
     "Application.DesafioTemperatura.executor": "Run",
     "Application.HoraPratica01.executor": "Run",
+    "Application.Leitura.executor": "Run",
+    "Application.Loop.executor": "Run",
+    "Application.LoopWhile.executor": "Run",
     "Application.Main.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
     "kotlin-language-version-configured": "true",
     "settings.editor.selected.configurable": "preferences.pluginManager"
   }
