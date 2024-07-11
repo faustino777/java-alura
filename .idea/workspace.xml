@@ -4,7 +4,32 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0260c0fe-a928-452e-ad49-db2ff5bc91c6" name="Changes" comment="" />
+    <list default="true" id="0260c0fe-a928-452e-ad49-db2ff5bc91c6" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/exercicios/src/HoraPratica03Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercicios/src/HoraPratica03Pessoa.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercicios/src/HoraPratica04Calculadora.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercicios/src/HoraPratica04Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercicios/src/HoraPratica05Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercicios/src/HoraPratica05Musica.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercicios/src/HoraPratica06Carro.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercicios/src/HoraPratica06Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screen-match/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercicios/src/Perfil.java" beforeDir="false" afterPath="$PROJECT_DIR$/aprendizado/src/Perfil.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercicios/src/PrimeiraClasse.java" beforeDir="false" afterPath="$PROJECT_DIR$/aprendizado/src/PrimeiraClasse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercicios/src/Soma.java" beforeDir="false" afterPath="$PROJECT_DIR$/aprendizado/src/Soma.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercicios/src/Subtracao.java" beforeDir="false" afterPath="$PROJECT_DIR$/aprendizado/src/Subtracao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-alura/Perfil.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-alura/PrimeiraClasse.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-alura/Soma.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-alura/Subtracao.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/screen-match/Condicional.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/screen-match/Leitura.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/screen-match/LoopFor.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/screen-match/LoopWhile.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/screen-match/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/screen-match/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/screen-match/src/Movie.java" beforeDir="false" afterPath="$PROJECT_DIR$/screen-match/src/Movie.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -20,6 +45,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 0
 }</component>
@@ -31,28 +59,31 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
-    &quot;Application.CelsiusToFahrenheit.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Condicional.executor&quot;: &quot;Run&quot;,
-    &quot;Application.DesafioAdivinhacao.executor&quot;: &quot;Run&quot;,
-    &quot;Application.DesafioBanco.executor&quot;: &quot;Run&quot;,
-    &quot;Application.DesafioTemperatura.executor&quot;: &quot;Run&quot;,
-    &quot;Application.HoraPratica01.executor&quot;: &quot;Run&quot;,
-    &quot;Application.HoraPratica02.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Leitura.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Loop.executor&quot;: &quot;Run&quot;,
-    &quot;Application.LoopWhile.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "Application.CelsiusToFahrenheit.executor": "Run",
+    "Application.Condicional.executor": "Run",
+    "Application.DesafioAdivinhacao.executor": "Run",
+    "Application.DesafioBanco.executor": "Run",
+    "Application.DesafioTemperatura.executor": "Run",
+    "Application.HoraPratica01.executor": "Run",
+    "Application.HoraPratica02.executor": "Run",
+    "Application.HoraPratica03Main.executor": "Run",
+    "Application.HoraPratica04Main.executor": "Run",
+    "Application.HoraPratica06Main.executor": "Run",
+    "Application.Leitura.executor": "Run",
+    "Application.Loop.executor": "Run",
+    "Application.LoopWhile.executor": "Run",
+    "Application.Main.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
+    "kotlin-language-version-configured": "true",
+    "settings.editor.selected.configurable": "preferences.lookFeel"
   }
-}</component>
+}]]></component>
   <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
