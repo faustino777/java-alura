@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/aprendizado/aprendizado.iml" filepath="$PROJECT_DIR$/aprendizado/aprendizado.iml" />
       <module fileurl="file://$PROJECT_DIR$/java-alura.iml" filepath="$PROJECT_DIR$/java-alura.iml" />
       <module fileurl="file://$PROJECT_DIR$/screen-match/screen-match.iml" filepath="$PROJECT_DIR$/screen-match/screen-match.iml" />
     </modules>
