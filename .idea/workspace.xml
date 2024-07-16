@@ -4,7 +4,21 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0260c0fe-a928-452e-ad49-db2ff5bc91c6" name="Changes" comment="" />
+    <list default="true" id="0260c0fe-a928-452e-ad49-db2ff5bc91c6" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/exercicios/src/HoraPratica07ContaBancaria.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercicios/src/HoraPratica08Idade.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercicios/src/HoraPratica08Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercicios/src/HoraPratica09Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercicios/src/HoraPratica09Produto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercicios/src/HoraPratica10Aluno.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercicios/src/HoraPratica10Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-alura/HoraPratica06Carro.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java-alura/HoraPratica06Carro.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/screen-match/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/screen-match/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/screen-match/Movie.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/screen-match/Movie.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/screen-match/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/screen-match/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/screen-match/src/Movie.java" beforeDir="false" afterPath="$PROJECT_DIR$/screen-match/src/br/com/alura/screenmatch/models/Movie.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -47,6 +61,9 @@
     "Application.HoraPratica03Main.executor": "Run",
     "Application.HoraPratica04Main.executor": "Run",
     "Application.HoraPratica06Main.executor": "Run",
+    "Application.HoraPratica08Main.executor": "Run",
+    "Application.HoraPratica09Main.executor": "Run",
+    "Application.HoraPratica10Main.executor": "Run",
     "Application.Leitura.executor": "Run",
     "Application.Loop.executor": "Run",
     "Application.LoopWhile.executor": "Run",
