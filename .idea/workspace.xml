@@ -4,32 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0260c0fe-a928-452e-ad49-db2ff5bc91c6" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/exercicios/src/HoraPratica03Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exercicios/src/HoraPratica03Pessoa.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exercicios/src/HoraPratica04Calculadora.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exercicios/src/HoraPratica04Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exercicios/src/HoraPratica05Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exercicios/src/HoraPratica05Musica.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exercicios/src/HoraPratica06Carro.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exercicios/src/HoraPratica06Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/screen-match/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exercicios/src/Perfil.java" beforeDir="false" afterPath="$PROJECT_DIR$/aprendizado/src/Perfil.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exercicios/src/PrimeiraClasse.java" beforeDir="false" afterPath="$PROJECT_DIR$/aprendizado/src/PrimeiraClasse.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exercicios/src/Soma.java" beforeDir="false" afterPath="$PROJECT_DIR$/aprendizado/src/Soma.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exercicios/src/Subtracao.java" beforeDir="false" afterPath="$PROJECT_DIR$/aprendizado/src/Subtracao.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java-alura/Perfil.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java-alura/PrimeiraClasse.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java-alura/Soma.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java-alura/Subtracao.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/screen-match/Condicional.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/screen-match/Leitura.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/screen-match/LoopFor.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/screen-match/LoopWhile.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/screen-match/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/screen-match/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/screen-match/src/Movie.java" beforeDir="false" afterPath="$PROJECT_DIR$/screen-match/src/Movie.java" afterDir="false" />
-    </list>
+    <list default="true" id="0260c0fe-a928-452e-ad49-db2ff5bc91c6" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
