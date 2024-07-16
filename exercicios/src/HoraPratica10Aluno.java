@@ -38,7 +38,7 @@ public class HoraPratica10Aluno {
 
     public void detalhes(){
         System.out.println("O nome do aluno é: " + nome);
-        double media = (double) 3 / (nota1 + nota2 + nota3);
+        double media = (nota1 + nota2 + nota3) / (double) 3;
         System.out.println("A média do aluno é: " + media);
     }
 }
