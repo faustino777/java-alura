@@ -5,14 +5,53 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0260c0fe-a928-452e-ad49-db2ff5bc91c6" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/screen-match/src/br/com/alura/screenmatch/calculations/TimeCalculator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/screen-match/src/br/com/alura/screenmatch/models/Serie.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/screen-match/src/br/com/alura/screenmatch/models/Title.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercicios/src/Animal/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercicios/src/Animal/Cat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercicios/src/Animal/Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercicios/src/projectCar/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercicios/src/projectCar/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercicios/src/projectCar/ModelCar.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/screen-match/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/screen-match/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/screen-match/Movie.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/screen-match/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/screen-match/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/screen-match/src/br/com/alura/screenmatch/models/Movie.java" beforeDir="false" afterPath="$PROJECT_DIR$/screen-match/src/br/com/alura/screenmatch/models/Movie.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercicios/src/DesafioAdivinhacao.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercicios/src/DesafioBanco.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercicios/src/DesafioTemperatura.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercicios/src/HoraPratica01.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercicios/src/HoraPratica02.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercicios/src/HoraPratica03Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercicios/src/HoraPratica03Pessoa.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercicios/src/HoraPratica04Calculadora.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercicios/src/HoraPratica04Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercicios/src/HoraPratica05Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercicios/src/HoraPratica05Musica.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercicios/src/HoraPratica06Carro.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercicios/src/HoraPratica06Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercicios/src/HoraPratica07ContaBancaria.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercicios/src/HoraPratica08Idade.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercicios/src/HoraPratica08Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercicios/src/HoraPratica09Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercicios/src/HoraPratica09Produto.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercicios/src/HoraPratica10Aluno.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercicios/src/HoraPratica10Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-alura/DesafioAdivinhacao.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-alura/DesafioBanco.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-alura/DesafioTemperatura.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-alura/HoraPratica01.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-alura/HoraPratica02.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-alura/HoraPratica03Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-alura/HoraPratica03Pessoa.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-alura/HoraPratica04Calculadora.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-alura/HoraPratica04Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-alura/HoraPratica05Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-alura/HoraPratica05Musica.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-alura/HoraPratica06Carro.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-alura/HoraPratica06Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-alura/HoraPratica07ContaBancaria.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-alura/HoraPratica08Idade.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-alura/HoraPratica08Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-alura/HoraPratica09Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-alura/HoraPratica09Produto.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-alura/HoraPratica10Aluno.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-alura/HoraPratica10Main.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -63,6 +102,7 @@
     "Application.Loop.executor": "Run",
     "Application.LoopWhile.executor": "Run",
     "Application.Main.executor": "Run",
+    "Application.projectCar.Main.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "main",
