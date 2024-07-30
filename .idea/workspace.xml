@@ -5,7 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0260c0fe-a928-452e-ad49-db2ff5bc91c6" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/screen-match/src/br/com/alura/screenmatch/calculations/RecommendationFilter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screen-match/src/br/com/alura/screenmatch/calculations/Sortable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screen-match/src/br/com/alura/screenmatch/models/Episodes.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/screen-match/src/br/com/alura/screenmatch/models/Movie.java" beforeDir="false" afterPath="$PROJECT_DIR$/screen-match/src/br/com/alura/screenmatch/models/Movie.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -66,7 +70,7 @@
     "project.structure.last.edited": "Project",
     "project.structure.proportion": "0.0",
     "project.structure.side.proportion": "0.0",
-    "settings.editor.selected.configurable": "preferences.lookFeel"
+    "settings.editor.selected.configurable": "preferences.editor"
   }
 }]]></component>
   <component name="RunManager">
