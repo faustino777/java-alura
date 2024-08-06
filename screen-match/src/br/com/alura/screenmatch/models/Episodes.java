@@ -5,7 +5,7 @@ import br.com.alura.screenmatch.calculations.Sortable;
 public class Episodes implements Sortable {
     private int num;
     private String name;
-    private String serie;
+    private Serie serie;
     private int totalViews;
 
     public int getNum() {
@@ -16,11 +16,11 @@ public class Episodes implements Sortable {
         this.num = num;
     }
 
-    public String getSerie() {
+    public Serie getSerie() {
         return serie;
     }
 
-    public void setSerie(String serie) {
+    public void setSerie(Serie serie) {
         this.serie = serie;
     }
 

@@ -1,4 +1,6 @@
+import br.com.alura.screenmatch.calculations.RecommendationFilter;
 import br.com.alura.screenmatch.calculations.TimeCalculator;
+import br.com.alura.screenmatch.models.Episodes;
 import br.com.alura.screenmatch.models.Movie;
 import br.com.alura.screenmatch.models.Serie;
 
@@ -37,5 +39,14 @@ public class Main {
         calculator.calculateTime(myMovie2);
         calculator.calculateTime(breakingBad);
         System.out.println("Tempo para maratonar: " + calculator.getTotalTime() / 60 + " horas");
+
+        RecommendationFilter filter = new RecommendationFilter();
+        filter.filter(myMovie);
+
+        Episodes episode = new Episodes();
+        episode.setNum(1);
+        episode.setSerie(breakingBad);
+        episode.setTotalViews(300);
+        filter.filter(episode);
     }
 }
