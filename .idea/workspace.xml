@@ -5,21 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0260c0fe-a928-452e-ad49-db2ff5bc91c6" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/exercicios/src/calculadorasala/CalculadoraSalaRetangular.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exercicios/src/calculadorasala/CalculoGeometrico.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exercicios/src/calculadorasala/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exercicios/src/conversormoeda/ConversaoFinanceira.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exercicios/src/conversormoeda/ConversorMoeda.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exercicios/src/conversormoeda/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exercicios/src/tabuadamultiplicacao/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exercicios/src/tabuadamultiplicacao/Tabuada.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exercicios/src/tabuadamultiplicacao/TabuadaMultiplicacao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/minhasmusicas/minhasmusicas.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/minhasmusicas/src/br/com/alura/minhasmusicas/modelos/Audio.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/minhasmusicas/src/br/com/alura/minhasmusicas/modelos/MinhasPreferidas.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/minhasmusicas/src/br/com/alura/minhasmusicas/modelos/Musica.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/minhasmusicas/src/br/com/alura/minhasmusicas/modelos/Podcast.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/minhasmusicas/src/br/com/alura/minhasmusicas/principal/Principal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/screen-match/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/screen-match/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/screen-match/br/com/alura/screenmatch/models/Movie.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/screen-match/br/com/alura/screenmatch/models/Movie.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/screen-match/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/screen-match/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/screen-match/src/br/com/alura/screenmatch/calculations/RecommendationFilter.java" beforeDir="false" afterPath="$PROJECT_DIR$/screen-match/src/br/com/alura/screenmatch/calculations/RecommendationFilter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/screen-match/src/br/com/alura/screenmatch/models/Episodes.java" beforeDir="false" afterPath="$PROJECT_DIR$/screen-match/src/br/com/alura/screenmatch/models/Episodes.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -72,6 +65,7 @@
     "Application.Loop.executor": "Run",
     "Application.LoopWhile.executor": "Run",
     "Application.Main.executor": "Run",
+    "Application.Principal.executor": "Run",
     "Application.calculadorasala.Main.executor": "Run",
     "Application.conversormoeda.Main.executor": "Run",
     "Application.projectCar.Main.executor": "Run",
@@ -81,10 +75,11 @@
     "git-widget-placeholder": "main",
     "ignore.virus.scanning.warn.message": "true",
     "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/admin/Downloads/jetbrains-cyberpunk-theme.jar",
     "project.structure.last.edited": "Project",
     "project.structure.proportion": "0.0",
     "project.structure.side.proportion": "0.0",
-    "settings.editor.selected.configurable": "preferences.editor"
+    "settings.editor.selected.configurable": "preferences.pluginManager"
   }
 }]]></component>
   <component name="RunManager">

@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/aprendizado/aprendizado.iml" filepath="$PROJECT_DIR$/aprendizado/aprendizado.iml" />
       <module fileurl="file://$PROJECT_DIR$/java-alura.iml" filepath="$PROJECT_DIR$/java-alura.iml" />
+      <module fileurl="file://$PROJECT_DIR$/minhasmusicas/minhasmusicas.iml" filepath="$PROJECT_DIR$/minhasmusicas/minhasmusicas.iml" />
       <module fileurl="file://$PROJECT_DIR$/screen-match/screen-match.iml" filepath="$PROJECT_DIR$/screen-match/screen-match.iml" />
     </modules>
   </component>
