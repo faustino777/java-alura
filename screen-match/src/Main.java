@@ -4,6 +4,8 @@ import br.com.alura.screenmatch.models.Episodes;
 import br.com.alura.screenmatch.models.Movie;
 import br.com.alura.screenmatch.models.Serie;
 
+import java.util.ArrayList;
+
 public class Main {
     public static void main(String[] args) {
         Movie myMovie = new Movie();
@@ -48,5 +50,19 @@ public class Main {
         episode.setSerie(breakingBad);
         episode.setTotalViews(300);
         filter.filter(episode);
+
+        Movie myMovie3 = new Movie();
+        myMovie3.setName("O poderoso chefão 3.");
+        myMovie3.setReleaseYear(1990);
+        myMovie3.setDuration(200);
+        myMovie3.assess(10);
+
+        ArrayList<Movie> movieList = new ArrayList<>();
+        movieList.add(myMovie);
+        movieList.add(myMovie2);
+        movieList.add(myMovie3);
+        System.out.println("Tamanho da lista: " + movieList.size());
+        System.out.println("Nome do primeiro filme: " + movieList.get(0).getName());
+        System.out.println(movieList);
     }
 }
