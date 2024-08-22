@@ -5,6 +5,10 @@ import br.com.alura.screenmatch.calculations.Sortable;
 public class Movie extends Title implements Sortable {
     private String filmDirector;
 
+    public Movie(String name, int releaseYear) {
+        super(name, releaseYear);
+    }
+
     public String getFilmDirector() {
         return filmDirector;
     }

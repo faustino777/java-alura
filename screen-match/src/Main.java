@@ -8,9 +8,7 @@ import java.util.ArrayList;
 
 public class Main {
     public static void main(String[] args) {
-        Movie myMovie = new Movie();
-        myMovie.setName("O poderoso chefão.");
-        myMovie.setReleaseYear(1972);
+        Movie myMovie = new Movie("O poderoso chefão.", 1972);
         myMovie.setDuration(180);
         System.out.println("Duração do filme: " + myMovie.getDuration());
 
@@ -22,18 +20,14 @@ public class Main {
         String media = String.format("A média de avaliações é: %.2f", myMovie.averageRating());
         System.out.println(media);
 
-        Serie breakingBad = new Serie();
-        breakingBad.setName("Breaking Bad");
-        breakingBad.setReleaseYear(2008);
+        Serie breakingBad = new Serie("Breaking Bad", 2008);
         breakingBad.displaysTechnicalSheet();
         breakingBad.setSeason(5);
         breakingBad.setEpisodesPerSeason(16);
         breakingBad.setMinutesPerEpisodes(58);
         System.out.println("Duração para maratonar Breaking Bad: " + breakingBad.getDuration());
 
-        Movie myMovie2 = new Movie();
-        myMovie2.setName("O poderoso chefão 2.");
-        myMovie2.setReleaseYear(1980);
+        Movie myMovie2 = new Movie("O poderoso chefão 2", 1980);
         myMovie2.setDuration(200);
 
         TimeCalculator calculator = new TimeCalculator();
@@ -51,9 +45,7 @@ public class Main {
         episode.setTotalViews(300);
         filter.filter(episode);
 
-        Movie myMovie3 = new Movie();
-        myMovie3.setName("O poderoso chefão 3.");
-        myMovie3.setReleaseYear(1990);
+        Movie myMovie3 = new Movie("O poderoso chefão 3", 1990);
         myMovie3.setDuration(200);
         myMovie3.assess(10);
 
@@ -64,5 +56,7 @@ public class Main {
         System.out.println("Tamanho da lista: " + movieList.size());
         System.out.println("Nome do primeiro filme: " + movieList.get(0).getName());
         System.out.println(movieList);
+
+
     }
 }
