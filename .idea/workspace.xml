@@ -5,24 +5,42 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0260c0fe-a928-452e-ad49-db2ff5bc91c6" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/exercicios/src/produto2/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exercicios/src/produto2/Produto.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/screen-match/src/br/com/alura/screenmatch/main/MainLists.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercicios/src/themealdb/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screen-match/src/br/com/alura/screenmatch/main/MainSearch.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exercicios/src/Animal/Animal.java" beforeDir="false" afterPath="$PROJECT_DIR$/exercicios/src/animal/Animal.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exercicios/src/Animal/Cat.java" beforeDir="false" afterPath="$PROJECT_DIR$/exercicios/src/animal/Cat.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exercicios/src/Animal/Dog.java" beforeDir="false" afterPath="$PROJECT_DIR$/exercicios/src/animal/Dog.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exercicios/src/Animal/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/exercicios/src/animal/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/java-alura/Animal/Animal.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java-alura/Animal/Animal.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/java-alura/Animal/Cat.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java-alura/Animal/Cat.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/java-alura/Animal/Dog.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java-alura/Animal/Dog.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/java-alura/Animal/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java-alura/Animal/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/screen-match/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-alura/Pessoa/Pessoa.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java-alura/Pessoa/Pessoa.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-alura/Pessoa/Principal.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java-alura/Pessoa/Principal.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-alura/calculadorasala/CalculadoraSalaRetangular.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java-alura/calculadorasala/CalculadoraSalaRetangular.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-alura/calculadorasala/CalculoGeometrico.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java-alura/calculadorasala/CalculoGeometrico.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-alura/calculadorasala/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java-alura/calculadorasala/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-alura/conversormoeda/ConversaoFinanceira.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java-alura/conversormoeda/ConversaoFinanceira.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-alura/conversormoeda/ConversorMoeda.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java-alura/conversormoeda/ConversorMoeda.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-alura/conversormoeda/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java-alura/conversormoeda/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-alura/produto/Principal.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java-alura/produto/Principal.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-alura/produto/Produto.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java-alura/produto/Produto.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-alura/produto/ProdutoPerecivel.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java-alura/produto/ProdutoPerecivel.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-alura/produto2/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java-alura/produto2/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-alura/produto2/Produto.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java-alura/produto2/Produto.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-alura/projectCar/Car.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java-alura/projectCar/Car.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-alura/projectCar/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java-alura/projectCar/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-alura/projectCar/ModelCar.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java-alura/projectCar/ModelCar.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-alura/tabuadamultiplicacao/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java-alura/tabuadamultiplicacao/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-alura/tabuadamultiplicacao/Tabuada.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java-alura/tabuadamultiplicacao/Tabuada.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-alura/tabuadamultiplicacao/TabuadaMultiplicacao.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java-alura/tabuadamultiplicacao/TabuadaMultiplicacao.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/screen-match/br/com/alura/screenmatch/calculations/RecommendationFilter.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/screen-match/br/com/alura/screenmatch/calculations/RecommendationFilter.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/screen-match/br/com/alura/screenmatch/calculations/Sortable.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/screen-match/br/com/alura/screenmatch/calculations/Sortable.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/screen-match/br/com/alura/screenmatch/calculations/TimeCalculator.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/screen-match/br/com/alura/screenmatch/calculations/TimeCalculator.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/screen-match/br/com/alura/screenmatch/main/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/screen-match/br/com/alura/screenmatch/main/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/screen-match/br/com/alura/screenmatch/main/MainLists.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/screen-match/br/com/alura/screenmatch/main/MainLists.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/screen-match/br/com/alura/screenmatch/models/Episodes.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/screen-match/br/com/alura/screenmatch/models/Episodes.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/screen-match/br/com/alura/screenmatch/models/Movie.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/screen-match/br/com/alura/screenmatch/models/Movie.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/screen-match/br/com/alura/screenmatch/models/Serie.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/screen-match/br/com/alura/screenmatch/models/Serie.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/screen-match/br/com/alura/screenmatch/models/Title.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/screen-match/br/com/alura/screenmatch/models/Title.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/screen-match/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/screen-match/src/br/com/alura/screenmatch/main/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -61,6 +79,7 @@
     "Application.Animal2.Main.executor": "Run",
     "Application.CelsiusToFahrenheit.executor": "Run",
     "Application.Condicional.executor": "Run",
+    "Application.ConsultaReceitaTheMealDB.executor": "Run",
     "Application.DesafioAdivinhacao.executor": "Run",
     "Application.DesafioBanco.executor": "Run",
     "Application.DesafioTemperatura.executor": "Run",
@@ -77,9 +96,11 @@
     "Application.LoopWhile.executor": "Run",
     "Application.Main.executor": "Run",
     "Application.MainLists.executor": "Run",
+    "Application.MainSearch.executor": "Run",
     "Application.Principal.executor": "Run",
     "Application.calculadorasala.Main.executor": "Run",
     "Application.conversormoeda.Main.executor": "Run",
+    "Application.googlebooks.Main.executor": "Run",
     "Application.produto2.Main.executor": "Run",
     "Application.projectCar.Main.executor": "Run",
     "Application.tabuadamultiplicacao.Main.executor": "Run",
