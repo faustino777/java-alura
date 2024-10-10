@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0260c0fe-a928-452e-ad49-db2ff5bc91c6" name="Changes" comment="" />
+    <list default="true" id="0260c0fe-a928-452e-ad49-db2ff5bc91c6" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -35,50 +37,50 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
-    &quot;Application.Animal.Main.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Animal2.Main.executor&quot;: &quot;Run&quot;,
-    &quot;Application.CelsiusToFahrenheit.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Condicional.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ConsultaReceitaTheMealDB.executor&quot;: &quot;Run&quot;,
-    &quot;Application.DesafioAdivinhacao.executor&quot;: &quot;Run&quot;,
-    &quot;Application.DesafioBanco.executor&quot;: &quot;Run&quot;,
-    &quot;Application.DesafioTemperatura.executor&quot;: &quot;Run&quot;,
-    &quot;Application.HoraPratica01.executor&quot;: &quot;Run&quot;,
-    &quot;Application.HoraPratica02.executor&quot;: &quot;Run&quot;,
-    &quot;Application.HoraPratica03Main.executor&quot;: &quot;Run&quot;,
-    &quot;Application.HoraPratica04Main.executor&quot;: &quot;Run&quot;,
-    &quot;Application.HoraPratica06Main.executor&quot;: &quot;Run&quot;,
-    &quot;Application.HoraPratica08Main.executor&quot;: &quot;Run&quot;,
-    &quot;Application.HoraPratica09Main.executor&quot;: &quot;Run&quot;,
-    &quot;Application.HoraPratica10Main.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Leitura.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Loop.executor&quot;: &quot;Run&quot;,
-    &quot;Application.LoopWhile.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
-    &quot;Application.MainLists.executor&quot;: &quot;Run&quot;,
-    &quot;Application.MainSearch.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Principal.executor&quot;: &quot;Run&quot;,
-    &quot;Application.calculadorasala.Main.executor&quot;: &quot;Run&quot;,
-    &quot;Application.conversormoeda.Main.executor&quot;: &quot;Run&quot;,
-    &quot;Application.googlebooks.Main.executor&quot;: &quot;Run&quot;,
-    &quot;Application.produto2.Main.executor&quot;: &quot;Run&quot;,
-    &quot;Application.projectCar.Main.executor&quot;: &quot;Run&quot;,
-    &quot;Application.tabuadamultiplicacao.Main.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/admin/Downloads/jetbrains-cyberpunk-theme.jar&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.editor&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "Application.Animal.Main.executor": "Run",
+    "Application.Animal2.Main.executor": "Run",
+    "Application.CelsiusToFahrenheit.executor": "Run",
+    "Application.Condicional.executor": "Run",
+    "Application.ConsultaReceitaTheMealDB.executor": "Run",
+    "Application.DesafioAdivinhacao.executor": "Run",
+    "Application.DesafioBanco.executor": "Run",
+    "Application.DesafioTemperatura.executor": "Run",
+    "Application.HoraPratica01.executor": "Run",
+    "Application.HoraPratica02.executor": "Run",
+    "Application.HoraPratica03Main.executor": "Run",
+    "Application.HoraPratica04Main.executor": "Run",
+    "Application.HoraPratica06Main.executor": "Run",
+    "Application.HoraPratica08Main.executor": "Run",
+    "Application.HoraPratica09Main.executor": "Run",
+    "Application.HoraPratica10Main.executor": "Run",
+    "Application.Leitura.executor": "Run",
+    "Application.Loop.executor": "Run",
+    "Application.LoopWhile.executor": "Run",
+    "Application.Main.executor": "Run",
+    "Application.MainLists.executor": "Run",
+    "Application.MainSearch.executor": "Run",
+    "Application.Principal.executor": "Run",
+    "Application.calculadorasala.Main.executor": "Run",
+    "Application.conversormoeda.Main.executor": "Run",
+    "Application.googlebooks.Main.executor": "Run",
+    "Application.produto2.Main.executor": "Run",
+    "Application.projectCar.Main.executor": "Run",
+    "Application.tabuadamultiplicacao.Main.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/admin/Downloads/jetbrains-cyberpunk-theme.jar",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "preferences.pluginManager"
   }
-}</component>
+}]]></component>
   <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
